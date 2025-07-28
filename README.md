@@ -24,3 +24,17 @@ This project was created to practice and demonstrate fundamental HTML skills inc
 ## 🛠️ Built With
 
 - HTML5
+
+
+## 🔍 prompt
+````
+Create a professional and clean README.md in Markdown format for a simple personal webpage project. The project typically includes just an `index.html` file, but may also include optional `style.css` and `script.js` files. The README should:
+
+- Have a short and clear title
+- Briefly describe the purpose of the site
+- Mention what technologies are used (HTML, optional CSS/JS)
+- Explain how to open or run the site (locally in browser)
+- Be useful for people who are just uploading static sites
+- Be short and to the point (no overcomplication)
+
+Only return the Markdown output.
